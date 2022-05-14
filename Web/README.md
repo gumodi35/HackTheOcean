@@ -1,7 +1,7 @@
 
 <span align="center">
 
-![logo](/assets/Logo.png)
+![logo](/Web/assets/Logo.png)
 
 </span>
  
@@ -12,7 +12,7 @@
 
 <span align="center">
 
-![logo](/assets/limpieza.jfif)
+![logo](/Web/assets/limpieza.jfif)
 
 </span>
 
